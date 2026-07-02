@@ -1,0 +1,5 @@
+{
+  "name": "Candles - node based ambient dsp designer",
+  "description": "An Android App that is a node-based reverb design environment where users can freely build custom reverb algorithms from modular DSP elements, test them, and export to C++.",
+  "requestFramePermissions": []
+}
