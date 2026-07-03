@@ -10,7 +10,7 @@
   - **Delays & Reverb**: Delay Line, Schroeder All-pass, Feedback Comb, Multi-Tap Delay, Modulated Delay (Chorus/Flanger).
   - **Filters & EQ**: Low-Pass (LPF), High-Pass (HPF), Biquad Parametric EQ, Loop Damping Filter.
   - **Matrix Mixers**: 4x4 and 8x8 Pure Matrix Mixers for building Feedback Delay Networks (FDNs).
-  - **Modulation & Dynamics**: LFO, Envelope Follower, Clamper/Saturator, Tremolo, Phaser, Auto-Panner.
+  - **Modulation & Dynamics**: LFO, Envelope Follower, Clamper/Saturator, Tremolo, Phaser, Auto-Panner, Chorus.
   - **Utility**: Math Expressions, 4-Channel Mixer, Stereo Spreader, Pitch Shifter.
   - **Analysis**: Oscilloscope, Spectrum Analyzer, Latency Analyzer.
 - **C++ Export**: Seamlessly export your designed DSP effect as a skeleton C++ `AudioProcessor` class for integration into standard audio plugin frameworks.
