@@ -4,13 +4,13 @@
 
 ## Features
 
-- **Visual Node Architecture**: Create and chain DSP elements dynamically in an intuitive graph-based canvas.
+- **Visual Node Architecture**: Create and chain DSP elements dynamically in an intuitive graph-based canvas, with support for grouping nodes into reusable Macros.
 - **Extensive Node Library**:
   - **I/O**: Audio In/Out, Audio File Loop, Macro Knobs.
   - **Delays & Reverb**: Delay Line, Schroeder All-pass, Feedback Comb, Multi-Tap Delay, Modulated Delay (Chorus/Flanger).
   - **Filters & EQ**: Low-Pass (LPF), High-Pass (HPF), Biquad Parametric EQ, Loop Damping Filter.
   - **Matrix Mixers**: 4x4 and 8x8 Pure Matrix Mixers for building Feedback Delay Networks (FDNs).
-  - **Modulation & Dynamics**: LFO, Envelope Follower, Clamper/Saturator, Tremolo, Phaser, Auto-Panner, Chorus.
+  - **Modulation & Dynamics**: LFO, Envelope Follower, Clamper/Saturator, Tremolo, Phaser, Auto-Panner.
   - **Utility**: Math Expressions, 4-Channel Mixer, Stereo Spreader, Pitch Shifter.
   - **Analysis**: Oscilloscope, Spectrum Analyzer, Latency Analyzer.
 - **C++ Export**: Seamlessly export your designed DSP effect as a skeleton C++ `AudioProcessor` class for integration into standard audio plugin frameworks.
